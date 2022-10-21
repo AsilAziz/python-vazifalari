@@ -1,2 +1,2 @@
 # python-vazifalari
-sariq.devning python asoslari darlari vazifalari
+sariq.devning python asoslari darslari vazifalari
